@@ -1,5 +1,5 @@
 # Scriptolicious :strawberry:
-Bunch of handy scipts, mostly for node
+Bunch of handy scipts, code snippets and other, mostly for node
 
 ## Scripts
 
