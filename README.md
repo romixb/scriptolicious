@@ -3,6 +3,5 @@ Bunch of handy scipts, code snippets and other, mostly for node
 
 ## Scripts
 
-- [WireMock Mock Importer](./wiremock-mock-importer/README.md) - imports wiremock mappings to a wiremock server.
-
-
+- [WireMock Mock Importer](./wm-mock-importer/README.md) - imports wiremock mappings to a wiremock server.
+- [WireMock Mock Remapper](./wm-mock-remapper/README.md) - splits and remaps wm mocks in the name of Great Old Ones
